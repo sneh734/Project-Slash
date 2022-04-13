@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Enemy
+  - OnScreenText
+  - Coin
+  - Attack
+  - EXP
+  - Enemy EW
+  - EnemyAttackEW
+  - EnemyAttackSkeleton
+  - EnemySK
+  - EnemyGB
+  - EnemyAttackMSH
+  - EnemyMSH
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Enemies
+  - Player
+  - PlatForms
+  - Trees
+  - BackGroundTrees
+  - On Screen Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SkyBox
+    uniqueID: 3387158173
+    locked: 0
+  - name: Sea
+    uniqueID: 3093695131
+    locked: 0
+  - name: Clouds
+    uniqueID: 2441023635
+    locked: 0
+  - name: BackGroundTrees
+    uniqueID: 653156019
+    locked: 0
+  - name: BackGroundObjects
+    uniqueID: 236943287
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 2910908785
+    locked: 0
+  - name: Bridge
+    uniqueID: 3143912547
+    locked: 0
+  - name: ForeGroundObjects
+    uniqueID: 1663458201
+    locked: 0
+  - name: ForeGroundTrees
+    uniqueID: 1727527073
+    locked: 0
+  - name: UI
+    uniqueID: 3798692361
+    locked: 0
+  - name: l
+    uniqueID: 3112231459
+    locked: 0
