@@ -1,0 +1,2640 @@
+fileFormatVersion: 2
+guid: 945c99e8b02d4ff449cc9d50b536e8ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4599782185968771065
+    second: Fire_Hero_Idle_0
+  - first:
+      213: 8213560509345386214
+    second: Fire_Hero_Idle_1
+  - first:
+      213: 2429301389148254578
+    second: Fire_Hero_Idle_2
+  - first:
+      213: -5379688747580490542
+    second: Fire_Hero_Idle_3
+  - first:
+      213: 3540419826848900088
+    second: Fire_Hero_Idle_4
+  - first:
+      213: -8777490469332022589
+    second: Fire_Hero_Idle_5
+  - first:
+      213: -229446883792506364
+    second: Fire_Hero_Idle_6
+  - first:
+      213: -7959822773069589674
+    second: Fire_Hero_Idle_7
+  - first:
+      213: -1048328988467535857
+    second: Fire_Hero_Running_0
+  - first:
+      213: -2718357669696888195
+    second: Fire_Hero_Running_1
+  - first:
+      213: -4954529332065218114
+    second: Fire_Hero_Running_2
+  - first:
+      213: 6606352062338363404
+    second: Fire_Hero_Running_3
+  - first:
+      213: 1086052311278611386
+    second: Fire_Hero_Running_4
+  - first:
+      213: -5562020897899373620
+    second: Fire_Hero_Running_5
+  - first:
+      213: 6173564673210598882
+    second: Fire_Hero_Running_6
+  - first:
+      213: -4432908569688334401
+    second: Fire_Hero_Running_7
+  - first:
+      213: 9140509010887258538
+    second: Fire_Hero_Jump_0
+  - first:
+      213: 247337547825028379
+    second: Fire_Hero_Jump_1
+  - first:
+      213: 2269714515588754879
+    second: Fire_Hero_Jump_3
+  - first:
+      213: 1723566486914758992
+    second: Fire_Hero_Fall_0
+  - first:
+      213: -7988690051695467582
+    second: Fire_Hero_Fall_1
+  - first:
+      213: 6368423838498595357
+    second: Fire_Hero_Fall_2
+  - first:
+      213: 2225579343272346620
+    second: Fire_Hero_Jump_
+  - first:
+      213: 6367432617614751288
+    second: Rolling
+  - first:
+      213: -2234501625895797169
+    second: Fire_Hero_Attack_1_0
+  - first:
+      213: -4655889629789182448
+    second: Fire_Hero_Attack_1_1
+  - first:
+      213: 3463218919347189353
+    second: Fire_Hero_Attack_1_2
+  - first:
+      213: 6029257046856938540
+    second: Fire_Hero_Attack_1_3
+  - first:
+      213: -3690615536504680958
+    second: Fire_Hero_Attack_1_4
+  - first:
+      213: -7228252818696762601
+    second: Fire_Hero_Attack_1_5
+  - first:
+      213: -1600710300622633827
+    second: Fire_Hero_Attack_1_6
+  - first:
+      213: 856730062485092760
+    second: Fire_Hero_Attack_1_7
+  - first:
+      213: 942720726039141848
+    second: Fire_Hero_Attack_1_8
+  - first:
+      213: -4106439777558575699
+    second: Fire_Hero_Attack_1_9
+  - first:
+      213: -8683407623479399789
+    second: Fire_Hero_Attack_1_10
+  - first:
+      213: -8325180699715416507
+    second: Fire_Hero_Attack_2_3
+  - first:
+      213: -1227268287064942019
+    second: Fire_Hero_Attack_2_4
+  - first:
+      213: 7673689768980458548
+    second: Fire_Hero_Attack_2_5
+  - first:
+      213: 4891697900029575751
+    second: Fire_Hero_Attack_2_6
+  - first:
+      213: -813176412475448657
+    second: Fire_Hero_Attack_2_7
+  - first:
+      213: 8638409628269270507
+    second: Fire_Hero_Attack_2_11
+  - first:
+      213: 8321623509726948803
+    second: Fire_Hero_Attack_2_11
+  - first:
+      213: 3751223846769491550
+    second: Fire_Hero_Attack_2_10
+  - first:
+      213: -4002186138508708339
+    second: Fire_Hero_Attack_2_11
+  - first:
+      213: -7962610261305265708
+    second: Fire_Hero_3_1
+  - first:
+      213: -5624909528511389659
+    second: Fire_Hero_3_0
+  - first:
+      213: 6671995004602317623
+    second: Fire_Hero_3_2
+  - first:
+      213: 6797136282940470152
+    second: Fire_Hero_3_4
+  - first:
+      213: -3869915242085797951
+    second: Fire_Hero_3_5
+  - first:
+      213: 8255639676545137163
+    second: Fire_Hero_3_6
+  - first:
+      213: 7952752574773526614
+    second: Fire_Hero_3_7
+  - first:
+      213: -6579918572784266807
+    second: Fire_Hero_3_8
+  - first:
+      213: -3502500369665882015
+    second: Fire_Hero_3_9
+  - first:
+      213: 5750318726516429640
+    second: Fire_Hero_3_10
+  - first:
+      213: -2051011066041934433
+    second: 0
+  - first:
+      213: 4951306699248793545
+    second: 1
+  - first:
+      213: 209277624714391941
+    second: Fire_Hero_Ult_0
+  - first:
+      213: 4996201306569563704
+    second: Fire_Hero_Ult_1
+  - first:
+      213: -4865354866782553904
+    second: Fire_Hero_Ult_2
+  - first:
+      213: 4272823279562676056
+    second: Fire_Hero_Ult_3
+  - first:
+      213: -8787071838826125714
+    second: Fire_Hero_Ult_4
+  - first:
+      213: -581752573001419995
+    second: Fire_Hero_Ult_5
+  - first:
+      213: -6005588196136169525
+    second: fire_knight_basic_SpriteSheet_224x112_66
+  - first:
+      213: -1831435581549056731
+    second: Fire_Hero_Ult_6
+  - first:
+      213: 8090271762653368498
+    second: Fire_Hero_Ult_7
+  - first:
+      213: -7671017081062221204
+    second: Fire_Hero_Ult_8
+  - first:
+      213: -7377188685108615923
+    second: Fire_Hero_Ult_9
+  - first:
+      213: -1249943025800568156
+    second: Fire_Hero_Ult_10
+  - first:
+      213: -8671306577809258311
+    second: Fire_Hero_Ult_11
+  - first:
+      213: 7127819250917786715
+    second: Fire_Hero_Ult_12
+  - first:
+      213: -2605292433275226938
+    second: Fire_Hero_Ult_13
+  - first:
+      213: 1693791889219154928
+    second: Fire_Hero_Ult_14
+  - first:
+      213: -1974474849618799243
+    second: Fire_Hero_Ult_15
+  - first:
+      213: 1569044819565914660
+    second: Fire_Hero_Ult_16
+  - first:
+      213: -8837437309040645223
+    second: Fire_Hero_Ult_17
+  - first:
+      213: 2290746174259649289
+    second: fire_knight_basic_SpriteSheet_224x112_79
+  - first:
+      213: -1230986240012927627
+    second: Fire_Hero_Jump_2
+  - first:
+      213: 1065113482110459359
+    second: fire_knight_basic_SpriteSheet_224x112_81
+  - first:
+      213: -4917073316724738730
+    second: fire_knight_basic_SpriteSheet_224x112_82
+  - first:
+      213: 5802394845970043872
+    second: fire_knight_basic_SpriteSheet_224x112_83
+  - first:
+      213: -4143934345669687728
+    second: Fire_Hero_Jump_5
+  - first:
+      213: -8939443390711323297
+    second: fire_knight_basic_SpriteSheet_224x112_85
+  - first:
+      213: 6882369457766011078
+    second: fire_knight_basic_SpriteSheet_224x112_86
+  - first:
+      213: 1438966585122989571
+    second: fire_knight_basic_SpriteSheet_224x112_87
+  - first:
+      213: 257703005652486407
+    second: fire_knight_basic_SpriteSheet_224x112_88
+  - first:
+      213: 4417483134620531782
+    second: fire_knight_basic_SpriteSheet_224x112_89
+  - first:
+      213: 5634684379057246414
+    second: fire_knight_basic_SpriteSheet_224x112_90
+  - first:
+      213: 6858005389958590892
+    second: fire_knight_basic_SpriteSheet_224x112_91
+  - first:
+      213: 6236392697463326558
+    second: fire_knight_basic_SpriteSheet_224x112_92
+  - first:
+      213: -3563544440225112962
+    second: fire_knight_basic_SpriteSheet_224x112_93
+  - first:
+      213: 4346086532744785079
+    second: fire_knight_basic_SpriteSheet_224x112_94
+  - first:
+      213: -508831395733718501
+    second: fire_knight_basic_SpriteSheet_224x112_95
+  - first:
+      213: -7263909823784457150
+    second: fire_knight_basic_SpriteSheet_224x112_96
+  - first:
+      213: -7953465745245449324
+    second: fire_knight_basic_SpriteSheet_224x112_97
+  - first:
+      213: -6538928186462211128
+    second: fire_knight_basic_SpriteSheet_224x112_98
+  - first:
+      213: 5944668568735935801
+    second: fire_knight_basic_SpriteSheet_224x112_99
+  - first:
+      213: 6377244270820270442
+    second: Hurt01
+  - first:
+      213: 3356549708040603172
+    second: Hurt02
+  - first:
+      213: -3085809657840885869
+    second: Hurt03
+  - first:
+      213: -1707604848212555592
+    second: Hurt04
+  - first:
+      213: 7723611308387133921
+    second: Hurt05
+  - first:
+      213: -9215761416297936546
+    second: Hurt06
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Hero_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff96d60785b5df30800000000000000
+      internalID: 4599782185968771065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1344
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee45b414cd6cf170800000000000000
+      internalID: 8213560509345386214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2717b801ebc96b120800000000000000
+      internalID: 2429301389148254578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1344
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc7c4e36918755b0800000000000000
+      internalID: -5379688747580490542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1344
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f324171319122130800000000000000
+      internalID: 3540419826848900088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1344
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca861c5ce6103680800000000000000
+      internalID: -8777490469332022589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1344
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023abc5647d0dcf0800000000000000
+      internalID: -229446883792506364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1344
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535f106c57098190800000000000000
+      internalID: -7959822773069589674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Running_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e5aad6569371f0800000000000000
+      internalID: -1048328988467535857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Running_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1232
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7222451a14764ad0800000000000000
+      internalID: -2718357669696888195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Running_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1232
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1dffc92d9fd3bb0800000000000000
+      internalID: -4954529332065218114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Running_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1232
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f8d0e23a7eab50800000000000000
+      internalID: 6606352062338363404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Running_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1232
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe04da2de621f00800000000000000
+      internalID: 1086052311278611386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Running_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1232
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb9863567bbfc2b0800000000000000
+      internalID: -5562020897899373620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Running_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1232
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e54e908c58eca550800000000000000
+      internalID: 6173564673210598882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Running_7
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1232
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf11f574252b72c0800000000000000
+      internalID: -4432908569688334401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa13134548c99de70800000000000000
+      internalID: 9140509010887258538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1120
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d1ab57038be6300800000000000000
+      internalID: 247337547825028379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1120
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd27339355af7f10800000000000000
+      internalID: 2269714515588754879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Fall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059725786965be710800000000000000
+      internalID: 1723566486914758992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Fall_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1008
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3aeff49b8722190800000000000000
+      internalID: -7988690051695467582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Fall_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1008
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a6d06dbf216850800000000000000
+      internalID: 6368423838498595357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Jump_
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 898
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3023ffe98d2ee10800000000000000
+      internalID: 2225579343272346620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 1792
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b928ca3aad5850800000000000000
+      internalID: 6367432617614751288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb2723c947df0e0800000000000000
+      internalID: -2234501625895797169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016adf6bc05f26fb0800000000000000
+      internalID: -4655889629789182448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f91b1243df0030800000000000000
+      internalID: 3463218919347189353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 670
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24bd69f6593ca350800000000000000
+      internalID: 6029257046856938540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec91829bc48ccc0800000000000000
+      internalID: -3690615536504680958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0ddabb5610bb90800000000000000
+      internalID: -7228252818696762601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944417667229c9e0800000000000000
+      internalID: -1600710300622633827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_7
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89972d2e377b3eb00800000000000000
+      internalID: 856730062485092760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_8
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd16fd6187351d00800000000000000
+      internalID: 942720726039141848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_9
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5461777cef207c0800000000000000
+      internalID: -4106439777558575699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_1_10
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 671
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a679ae5c65e7780800000000000000
+      internalID: -8683407623479399789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_0
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e5fb9cf4ea17c20800000000000000
+      internalID: 3202532467747544722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_36
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 581
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65dc0cdb5e7dab00800000000000000
+      internalID: 841467638387103087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_1
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09adefe18bd8d410800000000000000
+      internalID: 1502191826850654474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_2
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0162d3a2c4b22240800000000000000
+      internalID: 4765570103776534796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_3
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e46862344077c80800000000000000
+      internalID: -8325180699715416507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_4
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a5469cefdd7fee0800000000000000
+      internalID: -1227268287064942019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_5
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c21ac103c6e7a60800000000000000
+      internalID: 7673689768980458548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_6
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74289cf925dc2e340800000000000000
+      internalID: 4891697900029575751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_7
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2acaa7c5407b4f0800000000000000
+      internalID: -813176412475448657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_8
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5dd45e9cbc1e770800000000000000
+      internalID: 8638409628269270507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_9
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd60d30e785c7370800000000000000
+      internalID: 8321623509726948803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_10
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e7babb6360f0430800000000000000
+      internalID: 3751223846769491550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Attack_2_11
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06323959e06578c0800000000000000
+      internalID: -4002186138508708339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_0
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206e5bf59e40f1b0800000000000000
+      internalID: -5624909528511389659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_1
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f402b7202f7190800000000000000
+      internalID: -7962610261305265708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_2
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b70806b10b79c50800000000000000
+      internalID: 6671995004602317623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_4
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883f592cf67445e50800000000000000
+      internalID: 6797136282940470152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_5
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf2b9c479c4b4ac0800000000000000
+      internalID: -3869915242085797951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_6
+      rect:
+        serializedVersion: 2
+        x: 5152
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af71aab8ce19270800000000000000
+      internalID: 8255639676545137163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_7
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65003fdc45add5e60800000000000000
+      internalID: 7952752574773526614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_8
+      rect:
+        serializedVersion: 2
+        x: 5601
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1d2328bee6fa4a0800000000000000
+      internalID: -6579918572784266807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_9
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680468887e946fc0800000000000000
+      internalID: -3502500369665882015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_3_10
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d94f4a6c3dcf40800000000000000
+      internalID: 5750318726516429640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ddc2a5d485983e0800000000000000
+      internalID: -2051011066041934433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c77cb6b53396b440800000000000000
+      internalID: 4951306699248793545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581f98014e087e200800000000000000
+      internalID: 209277624714391941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83edb680e92165540800000000000000
+      internalID: 4996201306569563704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d83533c689ca7cb0800000000000000
+      internalID: -4865354866782553904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575a56622e1c4b30800000000000000
+      internalID: 4272823279562676056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e662eeee7bc0e0680800000000000000
+      internalID: -8787071838826125714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b41bfd133de7f0800000000000000
+      internalID: -581752573001419995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_66
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 284
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4606ca5dd7aca0800000000000000
+      internalID: -6005588196136169525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52de1ccba0f6596e0800000000000000
+      internalID: -1831435581549056731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_7
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0d355dd4b664070800000000000000
+      internalID: 8090271762653368498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_8
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a15598b921b8590800000000000000
+      internalID: -7671017081062221204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_9
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05e1171af5fe9990800000000000000
+      internalID: -7377188685108615923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_10
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a22ea5c07f47aee0800000000000000
+      internalID: -1249943025800568156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_11
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8cb2b2c9459a780800000000000000
+      internalID: -8671306577809258311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_12
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54452a08d91be260800000000000000
+      internalID: 7127819250917786715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_13
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4fd9ad55428dbd0800000000000000
+      internalID: -2605292433275226938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_14
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f37858cfbe818710800000000000000
+      internalID: 1693791889219154928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_15
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5755782e5914994e0800000000000000
+      internalID: -1974474849618799243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_16
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa4e243fd56c510800000000000000
+      internalID: 1569044819565914660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Ult_17
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 335
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b29d5179d1b5580800000000000000
+      internalID: -8837437309040645223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bd453328d5acf10800000000000000
+      internalID: 2290746174259649289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57db2a86988aaeee0800000000000000
+      internalID: -1230986240012927627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_81
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd5caa911b08ce00800000000000000
+      internalID: 1065113482110459359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655f116cedb03cbb0800000000000000
+      internalID: -4917073316724738730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_83
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 954
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e31a98be5f368050800000000000000
+      internalID: 5802394845970043872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Hero_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05641d90ba9cd76c0800000000000000
+      internalID: -4143934345669687728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_85
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5520fe6997b0f380800000000000000
+      internalID: -8939443390711323297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_86
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01427be86138f50800000000000000
+      internalID: 6882369457766011078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_87
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306a9e53c7c38f310800000000000000
+      internalID: 1438966585122989571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_88
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709877da48b839300800000000000000
+      internalID: 257703005652486407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_89
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf550918d0e4d30800000000000000
+      internalID: 4417483134620531782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_90
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05623c69b623e40800000000000000
+      internalID: 5634684379057246414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_91
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1323021978c2f50800000000000000
+      internalID: 6858005389958590892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_92
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e574424dd1e1c8650800000000000000
+      internalID: 6236392697463326558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_93
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c501b463fbb8ec0800000000000000
+      internalID: -3563544440225112962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_94
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcac5bcca6605c30800000000000000
+      internalID: 4346086532744785079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_95
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ab9be9a8440f8f0800000000000000
+      internalID: -508831395733718501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_96
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c6bd84088613b90800000000000000
+      internalID: -7263909823784457150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_97
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49358614b0d9f9190800000000000000
+      internalID: -7953465745245449324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_98
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 896
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3712a857f0145a0800000000000000
+      internalID: -6538928186462211128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_knight_basic_SpriteSheet_224x112_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6fea2194bf7250800000000000000
+      internalID: 5944668568735935801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61232050e5808850800000000000000
+      internalID: 6377244270820270442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 111
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42683bafc2cd49e20800000000000000
+      internalID: 3356549708040603172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 111
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f9ceb27700d25d0800000000000000
+      internalID: -3085809657840885869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt04
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 111
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b84e85107e5d48e0800000000000000
+      internalID: -1707604848212555592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt05
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 111
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9ea934097cf2b60800000000000000
+      internalID: 7723611308387133921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt06
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 111
+        width: 224
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598fcea1d90b1080800000000000000
+      internalID: -9215761416297936546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
